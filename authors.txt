@@ -1,1 +1,0 @@
-roug = roug <roug@mycompany.com>
